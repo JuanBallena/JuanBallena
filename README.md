@@ -1,4 +1,4 @@
-#### Hi there 👋, I am Juan Pablo Ballena Uceda Full Stack Developer
+#### 👋Hi there, I am Juan Pablo Ballena Uceda Full Stack Developer
 #### ⚡Spring boot ⚡Laravel ⚡Flutter ⚡Angular ⚡Vue ⚡Nuxt ⚡Mysql ⚡Firebase ⚡Nodejs ⚡Typescript ⚡Adobe XD ⚡Hexagonal Architecture ⚡Solid ⚡CSS Architecture
 
 <!--
