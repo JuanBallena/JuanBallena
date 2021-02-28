@@ -1,6 +1,8 @@
-#### Hi there 👋
-#### Full Stack Developer
-#### Java | Springboot | Laravel | Flutter | Angular | Vue | Mysql | Firebase | Nodejs | Typescript
+#### Hi there 👋, I am Juan Pablo Ballena Uceda Full Stack Developer
+#### Skills:
+#### Spring boot | Laravel | Flutter | Angular | Vue | Nuxt
+#### Mysql | Firebase | Nodejs | Typescript | Adobe XD 
+#### Hexagonal Architecture | CQRS | Solid | CSS Architecture
 
 <!--
 **JuanBallena/JuanBallena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
