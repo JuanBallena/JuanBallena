@@ -1,6 +1,6 @@
-### Hi there 👋
-### Full Stack Developer
-### Java | Springboot | Laravel | Flutter | Angular | Vue | Mysql | Firebase | Nodejs | Typescript
+## Hi there 👋
+## Full Stack Developer
+## Java | Springboot | Laravel | Flutter | Angular | Vue | Mysql | Firebase | Nodejs | Typescript
 
 <!--
 **JuanBallena/JuanBallena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
