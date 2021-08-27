@@ -1,10 +1,22 @@
 #### 👋Hi there, I am Juan Pablo Ballena Uceda Full Stack Developer
 #### 
-⚡Spring boot 
+⚡Spring boot ⚡Laravel ⚡Node
 #### 
-⚡Laravel 
+⚡Flutter
 #### 
-⚡Flutter ⚡Angular ⚡Vue ⚡Nuxt ⚡Mysql ⚡Firebase ⚡Nodejs ⚡Typescript ⚡Adobe XD ⚡Hexagonal Architecture ⚡Solid ⚡CSS Architecture
+⚡Vue ⚡React ⚡Angular
+#### 
+⚡Nuxt 
+#### 
+⚡Mysql ⚡Postgress 
+#### 
+⚡Firebase 
+#### 
+⚡Adobe XD 
+#### 
+⚡Hexagonal Architecture ⚡Solid 
+#### 
+⚡Sass
 
 <!--
 **JuanBallena/JuanBallena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
