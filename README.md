@@ -1,12 +1,10 @@
 #### 👋Hi there, I am Juan Pablo Ballena Uceda Full Stack Developer
 #### 
-⚡Vue ⚡React ⚡Angular
+⚡Vue ⚡React ⚡Angular ⚡Nuxt 
 #### 
 ⚡Spring boot ⚡Laravel ⚡Node ⚡Lumen
 #### 
 ⚡Flutter
-#### 
-⚡Nuxt 
 #### 
 ⚡Mysql ⚡Postgress 
 #### 
