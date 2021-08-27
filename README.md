@@ -2,7 +2,7 @@
 #### 
 ⚡Vue ⚡React ⚡Angular
 #### 
-⚡Spring boot ⚡Laravel ⚡Node
+⚡Spring boot ⚡Laravel ⚡Node ⚡Lumen
 #### 
 ⚡Flutter
 #### 
@@ -11,8 +11,6 @@
 ⚡Mysql ⚡Postgress 
 #### 
 ⚡Firebase 
-#### 
-⚡Adobe XD 
 #### 
 ⚡Hexagonal Architecture ⚡Solid 
 #### 
