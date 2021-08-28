@@ -1,4 +1,4 @@
-#### 👋Hi there, I am Juan Pablo Ballena Uceda Full Stack Developer
+#### 👋Hi there, I am Juan Pablo Ballena Uceda Systems engineer and Full Stack Developer
 #### 
 ⚡Vue ⚡React ⚡Angular ⚡Nuxt 
 #### 
