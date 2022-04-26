@@ -6,11 +6,11 @@
 #### 
 ⚡Flutter
 #### 
-⚡Mysql ⚡Postgress 
+⚡Mysql ⚡Postgress ⚡Cassandra
 #### 
 ⚡Firebase 
 #### 
-⚡Hexagonal Architecture ⚡Solid 
+⚡Solid 
 #### 
 ⚡Sass
 
